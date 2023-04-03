@@ -1,0 +1,10 @@
+﻿  List.cpp
+  Sectra_arbetsprov.cpp
+C:\Users\feial\Documents\Code\Sectra_arbetsprov\Sectra_arbetsprov.cpp(58,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\feial\Documents\Code\Sectra_arbetsprov\Sectra_arbetsprov.cpp(69,20): warning C4244: '=': conversion from 'int' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Generating Code...
+  Sectra_arbetsprov.vcxproj -> C:\Users\feial\Documents\Code\Sectra_arbetsprov\x64\Debug\Sectra_arbetsprov.exe
