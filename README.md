@@ -13,6 +13,7 @@ set as start-up project
 and then run the code, <br>
 build or FN + F7
 
-Not wokring: multiply, yes I am aware of that.<br>
+Not working yet:<br>
+I am aware of that multiply don't as it should.<br>
 Hours of work: 23-25 hours
 </p>
